@@ -10,5 +10,6 @@ public class Basics {
         int a = input.nextInt();
         // output 
         System.out.println(a);
+        input.close();
     }
 }

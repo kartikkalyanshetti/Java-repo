@@ -33,6 +33,6 @@ public class TypeCasting {
 
        // Narrowing Casting (manually) - converting a larger type to a smaller size type
          // double -> float -> long -> int -> char -> short -> byte
-
+            input.close();
     }
 }

@@ -13,5 +13,7 @@ public class TempConversion {
         float TempF = (TempC * 9/5) + 32 ;
 
         System.out.println("Temperature in Farenhite is : "+ TempF);
+        
+        input.close();
     }
 }
