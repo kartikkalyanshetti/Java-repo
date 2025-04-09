@@ -14,5 +14,6 @@ public class condition {
     else{
         System.out.println("You are rich");
     }
+    input.close();
     }
 }
